@@ -1,0 +1,22 @@
+.MovieDetailContainer {
+  display: flex;
+}
+
+.MovieInfo {
+  width: 50vw;
+  padding-right: 30px;
+}
+
+.MovieVideo {
+  width: 50vw;
+}
+
+.MovieTitle {
+  padding-bottom: 20px;
+  border-bottom: 1px solid white;
+}
+
+.releaseDate,
+.vote {
+  font-weight: bold;
+}
